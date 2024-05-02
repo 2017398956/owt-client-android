@@ -25,5 +25,7 @@ android {
 
 dependencies {
     api project(':src:sdk:base')
-    api files('../../../dependencies/libwebrtc/libwebrtc.jar')
+    // api files('../../../dependencies/libwebrtc/libwebrtc.jar')
+
+    api group: 'org.webrtc', name: 'google-webrtc', version: '1.0.32006'
 }
