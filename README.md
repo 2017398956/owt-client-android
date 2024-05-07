@@ -56,3 +56,6 @@ Use the "Issues" tab on Github
 # See Also
 
 http://webrtc.intel.com
+
+
+可配合 registry.cn-hangzhou.aliyuncs.com/wisefeng/owt-server:v5.0 使用，注意：windows 下 docker 不能使用 host 模式
